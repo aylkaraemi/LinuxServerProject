@@ -3,6 +3,8 @@ A Project for the Udacity Full Stack Nanodegree
 
 This project is a test of setting up and configuring a Linux server and deploying a web app on it.
 
+Note: As the project has now been graded this server has been deactivated.
+
 ### Server Details
 - IP Address: 35.169.169.18
 - SSH Port: 2200
